@@ -13,7 +13,7 @@ The instructions provided below assume that the RAL Server will be running on a 
 
 1)	Download and install Mininet VM: https://github.com/mininet/mininet/wiki/Mininet-VM-Images 
 2)	Download, build and run Floodlight VM: https://floodlight.atlassian.net/wiki/spaces/floodlightcontroller/pages/8650780/Floodlight+VM 
-3)	Download and install Oracle VM VirtualBox: https://www.virtualbox.org/. Import and run the Mininet and Floodlight VMs: 
+3)	Download and install Oracle VM VirtualBox: https://www.virtualbox.org/. Import and run the Mininet and Floodlight VMs. 
 4)	Download and build Distributed Internet Traffic Generator (D-ITG) in the Mininet VM following the instructions: http://www.grid.unina.it/software/ITG/manual/index.html#SECTION00030000000000000000 
 5)	Assuming Windows OS on the host machine, download and install Xming: http://www.straightrunning.com/XmingNotes/ and PuTTY: https://www.chiark.greenend.org.uk/~sgtatham/putty/ 
 6)	Install the XTalker Module and RAL Client:
