@@ -1,4 +1,4 @@
-# Reactive-SDN
+# Reactive Distributed SDN
 This project contains the code for: 
 
 1)	Distributed, reactive SDN application built as a pluggable Floodlight module (XTalker) in Java for facilitating inter-agency data sharing: XTalker.java
